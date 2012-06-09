@@ -209,5 +209,6 @@ filter-select -i
 bindkey -M filterselect '^i' select-action
 
 bindkey '^X;' zaw
+bindkey '^Xh' zaw-history
 
 }
